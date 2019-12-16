@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: micronautcore.issue2385
+---
+testFramework: spock
+sourceLanguage: java
